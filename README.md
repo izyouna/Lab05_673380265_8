@@ -4,7 +4,6 @@ A RESTful API application for managing a coffee shop menu (Create, Read, Update,
 
 ## [Report Here!](https://docs.google.com/document/d/1snFQZB3olqkvNXHGxubF5f_-Jn5m9ocTpRLYe-qlBFw/edit?usp=sharing)
 
----
 
 ## Tech Stack & Prerequisites
 - **Language:** Java 17+

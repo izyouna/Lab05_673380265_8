@@ -2,7 +2,7 @@
 
 A RESTful API application for managing a coffee shop menu (Create, Read, Update, Delete) built with Spring Boot 3.x following Layered Architecture principles (Model - Service - Controller).
 
-[Report](https://docs.google.com/document/d/1snFQZB3olqkvNXHGxubF5f_-Jn5m9ocTpRLYe-qlBFw/edit?usp=sharing)
+## [Report Here!](https://docs.google.com/document/d/1snFQZB3olqkvNXHGxubF5f_-Jn5m9ocTpRLYe-qlBFw/edit?usp=sharing)
 
 ---
 

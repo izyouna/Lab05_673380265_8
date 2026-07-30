@@ -1,20 +1,19 @@
 package com.example.cs6733802658;
 
 public class Coffee {
-    public int id;
-    public String name;
-    public double price;
+    protected Integer id;
+    protected String name;
+    protected double price;
 
-    public Coffee() {
-    }
+    public Coffee() {}
     
-    public Coffee(int id, String name, double price) {
+    public Coffee(Integer id, String name, double price) {
         this.id = id;
         this.name = name;
         this.price = price;
     }
     
-    public int getId() {
+    public Integer getId() {
         return id;
     }
     
@@ -26,7 +25,7 @@ public class Coffee {
         return price;
     }
 
-    public void setId(int id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
@@ -37,6 +36,6 @@ public class Coffee {
     public void setPrice(double price) {
         this.price = price;
     }
-
 }
+
 
